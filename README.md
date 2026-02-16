@@ -37,6 +37,8 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 
 <h1>Experience</h1>
 <ul>
+  <li>Incoming Software Engineer @ Aeyesafe</li>
+  <li>Software Enginner @ ODDS LLC</li>
   <li>FullStack Engineer Co-op @ HSC UNT</li>
   <li>Software Engineer Fellowship @ Headstarter AI</li>
   <li>Fullstack Development Intern @ ThankUPet</li>
