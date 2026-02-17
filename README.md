@@ -64,9 +64,9 @@ I am a **Computer Science major at Texas Christian University**, passionate abou
 <h1>GitHub Stats 🎯</h1>
 <div>
   <a>
-    <img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drakenevadie19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
-  <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakenevadie19&layout=compact&langs_count=10" alt="programming language"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drakenevadie19&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
+    <img alt="my stats" height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=richardcodes25&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
+  <a><img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcodes25&layout=compact&langs_count=10" alt="programming language"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=richardcodes25&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
 </div>
 
 ## 📫 Connect with Me:
