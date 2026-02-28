@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanh Nguyen (Richard) Do!
+# 👋 Hi, I'm Thanh Nguyen (Richard/Drake) Do!
 
 🚀 **Software Engineer | Full-Stack & Mobile Developer | Cloud & DevOps Enthusiast**
 
